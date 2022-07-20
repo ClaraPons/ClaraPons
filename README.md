@@ -1,6 +1,6 @@
 <strong>👋  Hi, I’m @ClaraPons</strong>
 
-- 🌱 I’m currently learning various langages like HTML, CSS, Javascript, React JS, Node JS, Express JS and Redux JS and i'm interested in learning PHP. 
+- 🌱 I’m currently learning various langages like Node JS, Express JS and Redux JS and i'm interested in learning PHP. 
 - 👩‍💻 In the future, i want to learn more about Website accessibility. It would be great to work in this specialty. 
 - 📫 How to reach me :
     1) by 📧 : claragapons@gmail.com
